@@ -1,21 +1,23 @@
 <!-- ═════════════ HEADER ═════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Sanjeet%20Dwivedi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descSize=17&descAlignY=62" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Sanjeet%20Dwivedi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Visualization&descSize=17&descAlignY=62" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/sanjeetdwivedi21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjeet+Dwivedi;I+turn+raw+data+into+insights+%F0%9F%93%8A;I+build+things+with+Python+%26+OpenCV+%F0%9F%90%8D;Currently+learning+Machine+Learning+%F0%9F%A7%A0;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjeet+Dwivedi;I+turn+raw+data+into+insights+%F0%9F%93%8A;I+write+SQL+queries+to+answer+business+questions;I+build+Power+BI+dashboards+that+tell+a+story;I+clean+%26+analyze+data+with+Python+%26+Pandas;Open+to+Data+Analyst+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Analyst%20%2F%20ML%20Intern-22c55e?style=for-the-badge&labelColor=0f0c29" alt="open to work" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Analyst-22c55e?style=for-the-badge&labelColor=0f0c29" alt="open to work" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sanjeetdwivedi21&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="views" />
 <a href="https://github.com/sanjeetdwivedi21?tab=followers"><img src="https://img.shields.io/github/followers/sanjeetdwivedi21?style=for-the-badge&color=a78bfa&labelColor=0f0c29" alt="followers" /></a>
-<a href="https://github.com/sanjeetdwivedi21?tab=repositories"><img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29" alt="python" /></a>
+<img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f0c29" alt="sql" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0f0c29" alt="power bi" />
+<img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29" alt="python" />
 
 <br/><br/>
 
@@ -40,23 +42,24 @@
 class Sanjeet:
     role      = "Aspiring Data Analyst"
     location  = "India 🇮🇳"
-    languages = ["Python", "SQL", "C", "C++"]
-    tools     = ["Pandas", "NumPy", "OpenCV", "Power BI"]
-    learning  = ["Machine Learning", "Data Analytics"]
+    query     = ["SQL", "MySQL", "PostgreSQL"]
+    bi_tools  = ["Power BI"]
+    analysis  = ["Python", "Pandas", "NumPy"]
+    learning  = ["Advanced SQL", "Power BI", "Data Analytics"]
     goal      = "Turn data into decisions"
 
     def say_hi(self):
-        return "Let's build something together!"
+        return "Let's find insights together!"
 ```
 
 </td>
 <td width="45%" valign="top">
 
 - 🔭 Working on **[Virtual Mouse](https://github.com/sanjeetdwivedi21/Virtual-Mouse)** (Python, OpenCV, Hand Tracking)
-- 🌱 Learning **Python, SQL, Power BI, ML & Data Analytics**
-- 👯 Collaborating on **[Data Analytics & ML projects](https://github.com/sanjeetdwivedi21/vendor-performance-analysis)**
-- 🤝 Need help with **[Advanced Python & real-world ML](https://github.com/sanjeetdwivedi21/predictive-maintenance-ml)**
-- 💬 Ask me about **Python, SQL, Pandas, NumPy, OpenCV & Data Viz**
+- 🌱 Learning **SQL, Power BI, Python & Data Analytics**
+- 👯 Collaborating on **[Data Analytics projects](https://github.com/sanjeetdwivedi21/vendor-performance-analysis)**
+- 🤝 Need help with **[Advanced SQL & real-world data projects](https://github.com/sanjeetdwivedi21/predictive-maintenance-ml)**
+- 💬 Ask me about **SQL, Power BI, Python, Pandas, NumPy & Data Visualization**
 - 📫 Reach me: **sanjeetdwivedi2005@gmail.com**
 
 </td>
@@ -69,19 +72,34 @@ class Sanjeet:
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css&theme=dark" alt="languages" />
+**Databases & Querying**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="databases" />
 
-**Data & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,powerbi,pandas,numpy&theme=dark" alt="data" />
+**BI & Data Visualization**<br/>
+<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="bi" />
 
-**ML & Computer Vision**<br/>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn&theme=dark" alt="ml" />
+**Data Analysis**<br/>
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy&theme=dark" alt="analysis" />
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
 
+**Also exploring**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,opencv,tensorflow,sklearn&theme=dark" alt="exploring" />
+
 </div>
+
+<br/>
+
+## 🔄 My Analytics Workflow
+
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Clean with Python & Pandas]
+    B --> C[Query with SQL]
+    C --> D[Visualize in Power BI]
+    D --> E[Insights & Decisions]
+```
 
 <br/>
 
@@ -90,20 +108,20 @@ class Sanjeet:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/sanjeetdwivedi21/Virtual-Mouse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeetdwivedi21&repo=Virtual-Mouse&theme=radical&hide_border=true" alt="Virtual Mouse" />
+      <a href="https://github.com/sanjeetdwivedi21/vendor-performance-analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeetdwivedi21&repo=vendor-performance-analysis&theme=radical&hide_border=true" alt="Vendor Performance Analysis" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sanjeetdwivedi21/vendor-performance-analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeetdwivedi21&repo=vendor-performance-analysis&theme=radical&hide_border=true" alt="Vendor Performance Analysis" />
+      <a href="https://github.com/sanjeetdwivedi21/predictive-maintenance-ml">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeetdwivedi21&repo=predictive-maintenance-ml&theme=radical&hide_border=true" alt="Predictive Maintenance" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sanjeetdwivedi21/predictive-maintenance-ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeetdwivedi21&repo=predictive-maintenance-ml&theme=radical&hide_border=true" alt="Predictive Maintenance ML" />
+      <a href="https://github.com/sanjeetdwivedi21/Virtual-Mouse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeetdwivedi21&repo=Virtual-Mouse&theme=radical&hide_border=true" alt="Virtual Mouse" />
       </a>
     </td>
     <td align="center">
@@ -182,11 +200,10 @@ class Sanjeet:
 
 | Area | Focus | Status |
 |------|-------|--------|
-| 🐍 Python | Advanced concepts & clean code | ![](https://img.shields.io/badge/-In%20Progress-f59e0b?style=flat-square) |
 | 🗄️ SQL | Joins, window functions, analytics queries | ![](https://img.shields.io/badge/-In%20Progress-f59e0b?style=flat-square) |
-| 📊 Power BI | Dashboards & storytelling | ![](https://img.shields.io/badge/-Learning-3b82f6?style=flat-square) |
-| 🤖 Machine Learning | Predictive models & evaluation | ![](https://img.shields.io/badge/-Learning-3b82f6?style=flat-square) |
-| 👁️ OpenCV | Hand tracking & gesture control | ![](https://img.shields.io/badge/-Building-22c55e?style=flat-square) |
+| 📊 Power BI | Dashboards, DAX basics & storytelling | ![](https://img.shields.io/badge/-Learning-3b82f6?style=flat-square) |
+| 🐍 Python | Data cleaning & analysis with Pandas and NumPy | ![](https://img.shields.io/badge/-In%20Progress-f59e0b?style=flat-square) |
+| 📉 Data Visualization | Clear charts that explain the numbers | ![](https://img.shields.io/badge/-Learning-3b82f6?style=flat-square) |
 
 <br/>
 
@@ -204,7 +221,7 @@ class Sanjeet:
 
 <div align="center">
 
-I'm always open to **collaborations, internships and data projects**.<br/>
+I'm always open to **data analyst opportunities, collaborations and data projects**.<br/>
 Drop me a message, I usually reply quickly. 🙂
 
 <a href="https://www.linkedin.com/in/sanjeet-dwivedi-854539434"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
