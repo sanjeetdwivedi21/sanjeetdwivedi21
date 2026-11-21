@@ -45,7 +45,9 @@ class Sanjeet:
     query     = ["SQL", "MySQL", "PostgreSQL"]
     bi_tools  = ["Power BI"]
     analysis  = ["Python", "Pandas", "NumPy"]
-    learning  = ["Advanced SQL", "Power BI", "Data Analytics"]
+    ml_vision = ["Machine Learning", "OpenCV", "TensorFlow", "Scikit-learn"]
+    languages = ["C", "C++", "HTML", "CSS"]
+    learning  = ["Advanced SQL", "Power BI", "Machine Learning", "Data Analytics"]
     goal      = "Turn data into decisions"
 
     def say_hi(self):
@@ -56,10 +58,10 @@ class Sanjeet:
 <td width="45%" valign="top">
 
 - 🔭 Working on **[Virtual Mouse](https://github.com/sanjeetdwivedi21/Virtual-Mouse)** (Python, OpenCV, Hand Tracking)
-- 🌱 Learning **SQL, Power BI, Python & Data Analytics**
+- 🌱 Learning **SQL, Power BI, Python, Machine Learning & Data Analytics**
 - 👯 Collaborating on **[Data Analytics projects](https://github.com/sanjeetdwivedi21/vendor-performance-analysis)**
 - 🤝 Need help with **[Advanced SQL & real-world data projects](https://github.com/sanjeetdwivedi21/predictive-maintenance-ml)**
-- 💬 Ask me about **SQL, Power BI, Python, Pandas, NumPy & Data Visualization**
+- 💬 Ask me about **SQL, Power BI, Python, Pandas, NumPy, Data Visualization, OpenCV & Machine Learning**
 - 📫 Reach me: **sanjeetdwivedi2005@gmail.com**
 
 </td>
@@ -181,16 +183,6 @@ flowchart LR
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjeetdwivedi21/sanjeetdwivedi21/output/github-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sanjeetdwivedi21/sanjeetdwivedi21/output/github-snake.svg" />
 </picture>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjeetdwivedi21&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 
 </div>
 
